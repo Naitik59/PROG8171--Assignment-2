@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "SOL-105175-mac-family-pm-der-ee737250-61f7-4332-a0d3-91b1e122f9a6.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
